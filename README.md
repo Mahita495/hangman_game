@@ -1,4 +1,9 @@
-# Hangman Game
+# Hangman Game  
+
+Its is word guessing game where the player has to guess the word by checking letter by letter. If he guesses wrong letter, he loses a life.  
+For each correct guess, the word will be filled. Th player has fixed no of lives to guess the word.  
+
+Procedure:  
 
 Initially take some random words and store in a list  
 One random word will be chosen and given as blank for the user to find.  
