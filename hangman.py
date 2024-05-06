@@ -96,6 +96,7 @@ class Hangman():
             else:
                 self.failed_attempts += 1
         print("\n¡OMG! You lost!")
+        print('The word is: {0}'.format(self.word_to_guess))
 
 if __name__ == '__main__':
     word_to_guess = random.choice(WORDS)
