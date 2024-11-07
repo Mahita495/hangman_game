@@ -1,5 +1,7 @@
 # Hangman Game  
 
+Hangman game programmed in Python using object-oriented programming principles. Implemented core game mechanics including user input validation, guess tracking, and win/lose conditions.  
+
 It is word guessing game where the player has to guess the word by checking letter by letter. If he guesses wrong letter, he loses a life.  
 For each correct guess, the word will be filled. Th player has fixed no of lives to guess the word.  
 
